@@ -1,0 +1,73 @@
+body{
+    background:url(https://t4.ftcdn.net/jpg/03/92/25/09/360_F_392250914_2Od8jNRBPgpMu8W29vCh4hiu5EUXbgGU.jpg);
+}
+*{
+    margin:10px;
+    padding: 10px;
+}
+section{
+    color: #3C83F6;
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+   justify-content:left
+}
+nav{
+    color: #3C83F6;
+    font-size: 22px;
+    font-family:sans-serif;
+    text-decoration: none;
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content:right;
+    align-items:end;
+}
+a{
+    text-decoration: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-items:end;
+    margin-left: auto;
+}
+.container{
+    border: 2px solid red ;
+}
+
+.button1{
+        /* background-color: #3C83F6; */
+        border-radius: 15px;
+        /* border-color: #3C83F6; */
+        font-size: 22px;
+        border: 2px solid #10161D;
+
+    }
+
+    
+.button2{
+        background-color: #489BE3;
+        border-radius: 15px;
+        /* border-color: #3C83F6; */
+        font-size: 22px;
+        line-height: 3.9rm;
+    }
+    .header{
+         font-weight:200px;
+         font-size: x-large;
+         color: aliceblue;
+
+    }
+    span{
+        color: #4A9EE8;
+    }
+    button{
+        color: #ccd9e3;
+        /* border-color: #4A9EE8; */
+        background-color:#4A9EE8;
+        border-radius:15px;
+
+    }
+     .lastbtn{
+        border: #3C83F6;
+        color:aliceblue; 
+        background-color: 2px;
+    }

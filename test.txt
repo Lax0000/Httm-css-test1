@@ -1,0 +1,113 @@
+1. What is HTML?
+ HTML stand for hypertext markup language. it is basically a structure of web page. there is element that is used to make website.
+
+What is the difference between HTML and HTML5?
+ html is old version and html5 is new 5version and there is SEO(search engine optimization)
+and there is semantic tag(span ,div , article) and video, audio and  src function.
+
+
+What are semantic tags in HTML?
+What are semantic tags in HTML? is dive structure  to website span, div, article, nav, section,
+aside are What are semantic tags in HTML? 
+
+ What is the difference between <div> and <span>?
+div is block level element it take entire width and it is used to divided the section.
+span is inline element it take only required space not entire width 
+in span tag we sab write any other content but in div we cannot write content beside in div tag
+
+
+What is the difference between id and class?
+id is unique we cannot use for other element it is represent by #. we can only use in defined element.
+ class is defined more then one element we can given same name more then one element 
+. it is represent by period(.)
+
+
+What are block-level and inline elements?
+block level element it take entire width and it is used to divided the section.
+is inline element it take only required space not entire width.
+
+What is the purpose of the alt attribute?
+alt is represent alternate option, if we defined any source and if any reason it source code does not work that time we use alt to represent what kind of image is this.
+
+
+
+8. What are meta tags?
+it give html information 
+
+
+
+
+9.What is CSS?
+css stand for casedinng stylesheet it is use to design the webpage there is are way to use in  html 
+
+10.What are the different ways to apply CSS?
+there is 3 are way to use in  html
+Inline (in element  like p,h div )
+internal(by using style tag)
+external (by using link with.....)
+
+
+11.Explain the CSS Box Model.
+css box model is contain 4 items(MBPC)
+M:-margin (it is apply in  outside element)
+B:-boarder
+P:-padding (it is apply in inside element)
+C:- content 
+
+
+12.What is the difference between Margin and Padding?
+M:-margin (it is apply in  outside element).
+P:-padding (it is apply in inside element).
+
+
+13. What is CSS Specificity?
+Inline>id>class>internal>external.
+
+
+
+14.What is the difference between display: none and visibility: hidden?
+display: none :-it take entire space there is no reservation concept and it shift if there is no other element
+visibility: hidden:- it reservation the space it only does not visible  on web page but  it present over there it take space.
+
+
+What is the difference between Relative, Absolute, Fixed, and Sticky positioning?
+
+
+
+16.What is Flexbox?
+ it given flexibility to webpage we can shift the contains in any where in page 
+display: flex;
+flex-
+flex-wrap:wrap;
+
+
+
+
+17..What is CSS Grid?
+it is use in inside content to reduce space and it apply in padding concept
+we use in with templates
+ex:- grid- templates -row:5px;
+grid- templates -columne:5px
+
+
+
+18.What is the difference between Flexbox and Grid?
+
+
+
+
+
+19. What is Responsive Web Design?
+Responsive Web Design we see all content as like without cut if I open webpage in phone or tab and desktop and it good in all type of device does not cut any content same for all device
+
+
+
+
+What are Media Queries?
+What are Media Queries? is give we reduce any size it look good in device and i minimize the size it give same to all device
+ @Media Queries(max-width:350px){
+}
+
+
+
+
